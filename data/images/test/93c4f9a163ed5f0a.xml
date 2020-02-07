@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Coin</folder>
+  <filename>93c4f9a163ed5f0a.jpg</filename>
+  <path>/home/ala/Bureau/BessmellahDataBase/OIDv4_ToolKit/OID/Dataset/validation/Coin/93c4f9a163ed5f0a.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>0</ymin>
+      <xmax>1023</xmax>
+      <ymax>1024</ymax>
+    </bndbox>
+  </object>
+</annotation>

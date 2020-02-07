@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Coin</folder>
+  <filename>0b2da02da4174ffa.jpg</filename>
+  <path>/home/ala/Bureau/BessmellahDataBase/OIDv4_ToolKit/OID/Dataset/train/Coin/0b2da02da4174ffa.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>765</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Coin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>245</xmin>
+      <ymin>311</ymin>
+      <xmax>482</xmax>
+      <ymax>568</ymax>
+    </bndbox>
+  </object>
+</annotation>
